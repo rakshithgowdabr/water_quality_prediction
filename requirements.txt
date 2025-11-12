@@ -1,5 +1,8 @@
-Flask
-sklearn
-pandas
 numpy
-matpotlib
+pandas
+matplotlib
+seaborn
+scikit-learn
+Flask
+plotly
+missingno
